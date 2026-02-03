@@ -1,0 +1,8 @@
+{
+  "name": "Professional MCA Portfolio",
+  "description": "A high-end, responsive portfolio SPA designed for an MCA candidate with expertise in Full Stack Development, UI/UX, and AI.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
