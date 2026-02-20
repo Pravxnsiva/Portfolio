@@ -61,7 +61,7 @@ const Hero: React.FC<HeroProps> = ({ onNavigate }) => {
             {/* The circular image */}
             <div className="w-56 h-56 md:w-72 md:h-72 lg:w-[420px] lg:h-[420px] rounded-full border-[12px] md:border-[20px] border-white shadow-2xl overflow-hidden relative">
               <img
-                src="/images/pravin.jpg"
+                src="/images/pravin.jpeg"
                 alt={USER_NAME}
                 className="w-full h-full object-cover"
               />
